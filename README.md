@@ -81,8 +81,5 @@ A comprehensive 4-page diagnostic report—detailing financial waterfall reconci
 ## 📥 How to Explore the Project
 1. **Clone or Download the Repository:**
 ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-   
-
-USERNAME>/<YOUR_REPOSITORY_NAME>.git
-   
+   git clone https://github.com/behnam-salimian/Retail-Profitability-PowerBI.git
+  
